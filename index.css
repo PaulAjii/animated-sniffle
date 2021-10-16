@@ -44,7 +44,6 @@ body{
  }
  .nav-links ul li a:hover{
    color: lightgreen;
-   font-weight: bold;
    font-size: 16px;
  }
  .page-info{
